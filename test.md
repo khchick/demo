@@ -7,3 +7,4 @@ this is the end
 These lines conflict with the feature branch!
 These lines conflict with the feature branch!
 These lines conflict with the feature branch!
+Making changes again to create conflicts
