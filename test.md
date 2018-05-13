@@ -3,3 +3,5 @@
 Some more texts for testing over several lines
 lorem ipsum
 this is the end
+
+Making changes again to create conflicts
